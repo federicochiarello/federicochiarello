@@ -14,8 +14,9 @@
 
 <br/>
 
-<a href="
-https://www.linkedin.com/in/federico-chiarello/">
+### Some Links &nbsp; :peacock:
+
+<a href="https://www.linkedin.com/in/federico-chiarello/">
     <img height="32" align="left" alt="LinkedIn" src="img/linkedin.png" />
 </a>
 
