@@ -3,7 +3,7 @@
 :mortar_board: &nbsp; Bachelor Degree in __Computer Science__  
 
 :call_me_hand: &nbsp; Passionate about __Machine__ and __Deep Learning__ (along cubing and foosball)  
-:zany_face: &nbsp; Focused on surviving the master's degree and mastering TensorFlow and CNN
+:zany_face: &nbsp; Focused on surviving the master's degree and mastering TensorFlow and CNNs
 
 <br/>
 
