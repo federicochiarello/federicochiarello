@@ -1,15 +1,13 @@
-### Hi there, I’m Federico &nbsp;	:wave:
-:books: &nbsp; __Data Science__ student at Padua University  
+### Hi there, I’m Federico &nbsp;	
+:books: &nbsp; __Data Science__ graduate at Padua University  
 :mortar_board: &nbsp; Bachelor Degree in __Computer Science__  
-
 :call_me_hand: &nbsp; Passionate about __Machine__ and __Deep Learning__ (along cubing and foosball)  
-:zany_face: &nbsp; Focused on surviving the master's degree and mastering TensorFlow and CNNs
 
 <br/>
 
 ### Tech Stack &nbsp; :computer:  
-- __Languages:__ &nbsp; Python, C++, R, JavaScript
-- __Libraries:__ &nbsp; TensorFlow, Keras, Scikit-Learn, Pandas, OpenCV  
+- __Languages:__ &nbsp; Python, C++, R
+- __Libraries:__ &nbsp; TensorFlow, Keras, Scikit-Learn, HuggingFace, Pandas, Numpy, OpenCV  
 - __Others:__ &nbsp; Git, SQL, Jupyter, Docker  
 
 <br/>
